@@ -1,0 +1,1 @@
+Simple python script to unpack an upx-packed executable whose "UPX" headers have been changed.

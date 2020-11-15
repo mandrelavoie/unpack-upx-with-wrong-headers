@@ -1,1 +1,3 @@
-Simple python script to unpack an upx-packed executable whose "UPX" headers have been changed.
+# unpack-upx-with-wrong-headers
+
+Python script to unpack an packed executable when its "UPX" headers have been changed.
